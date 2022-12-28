@@ -1,2 +1,2 @@
-# tpa3-mytmdb-website
-This is a movie app website by Nunung Ali Maulana
+# TPA 3 Project : The Movie Database (TMDB) Website
+This is an movie app website archived by Nunung Ali Maulana
